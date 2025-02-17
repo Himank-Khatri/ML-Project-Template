@@ -1,1 +1,1 @@
-A template for End-to-End modular Machine Learning projects.
+A template for modular end to end machine learning projects.
